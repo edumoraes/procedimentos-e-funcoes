@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a573f711-79f3-4470-b189-507afd5923f4" name="Changes" comment="Exemplo 7.3">
-      <change afterPath="$PROJECT_DIR$/src/Exemplo_7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exemplo_7_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673309159052</updated>
       <workItem from="1673309161720" duration="4416000" />
-      <workItem from="1673352430747" duration="448000" />
+      <workItem from="1673352430747" duration="821000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <created>1673310916828</created>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673352604398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exemplo 7.3">
+      <created>1673352892981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673352892981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
